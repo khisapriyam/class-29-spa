@@ -1,0 +1,22 @@
+
+.header {
+    background-color: white;
+}
+.logo a img{
+    margin-top: 10px;
+    width: 200px;
+}
+.menu ul {
+    text-align: right;
+    margin-top: 20px;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}

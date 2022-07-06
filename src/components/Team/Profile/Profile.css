@@ -1,0 +1,39 @@
+
+.profile{
+    text-align: center;
+}
+
+.profile img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.profile h2{
+    font-size: 40p;
+    font-weight: 900;
+}
+.profile p{
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.profile .social-icon ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.profile .social-icon ul a{
+    display: block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 20px;
+    border: 1px solid #333;
+    padding:10px;
+    box-sizing: content-box;
+    border-radius: 50%;
+    margin: 0px 3px;
+    color: #333;
+
+}
